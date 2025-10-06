@@ -1,0 +1,304 @@
+ {
+  "data": [
+    {
+      "id": 1,
+      "name": "Oil Control Moisturizer",
+      "brand": "Neutrogena",
+      "type": "Moisturizer",
+      "category": "Moisturizers",
+      "price": 17.25,
+      "description": "Mattifying moisturizer for oily and combination skin.",
+      "imageUrl": "https://images.ctfassets.net/bcjr30vxh6td/4xdNNMhPq0H6PRcO17mfz2/96f5ed7f9e80b55f862cf4488630f412/6807835_Carousel1_V2.webp?fm=webp&w=1024"
+    },
+    {
+      "id": 2,
+      "name": "Vitamin C Suspension 23% + HA Spheres 2%",
+      "brand": "The Ordinary",
+      "type": "Serum",
+      "category": "Serums",
+      "price": 7.80,
+      "description": "Brightening serum with 23% vitamin C to even skin tone.",
+      "imageUrl": "https://i.ebayimg.com/thumbs/images/g/6yAAAOSwrxRoHwTQ/s-l500.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Gentle Skin Cleanser",
+      "brand": "Cetaphil",
+      "type": "Cleanser",
+      "category": "Cleansers",
+      "price": 10.50,
+      "description": "Fragrance-free cleanser ideal for dry and sensitive skin.",
+      "imageUrl": "https://www.cetaphil.com/dw/image/v2/BGGN_PRD/on/demandware.static/-/Sites-galderma-us-m-catalog/default/dw554054cc/302990100624/GSC-RESIZE-1.2X.png?sw=900&sh=900&sm=fit&q=85"
+    },
+    {
+      "id": 4,
+      "name": "Ultra-Light Moisturizer",
+      "brand": "La Roche-Posay",
+      "type": "Moisturizer",
+      "category": "Moisturizers",
+      "price": 28.00,
+      "description": "Toleriane ultra-light fluid for sensitive skin.",
+      "imageUrl": "https://www.laroche-posay.us/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-acd-laroche-posay-master-catalog/default/dwccbace41/img/3337875545846/1_Toleriane_DblRepairMoisturizerUV_Tube.jpg?sw=1440&sh=1440&sm=cut&sfrm=jpg&q=70"
+    },
+    {
+      "id": 5,
+      "name": "Lactic Acid 5% + HA",
+      "brand": "The Ordinary",
+      "type": "Serum",
+      "category": "Serums",
+      "price": 8.30,
+      "description": "Gentle exfoliating serum with 5% lactic acid.",
+      "imageUrl": "https://theordinary.com/dw/image/v2/BFKJ_PRD/on/demandware.static/-/Sites-deciem-master/default/dwff3b7bf8/Images/products/The%20Ordinary/rdn-lactic-acid-5pct-ha-30ml.png?sw=800&sh=800&sm=fit"
+    },
+    {
+      "id": 6,
+      "name": "Cleansing Foam",
+      "brand": "Neutrogena",
+      "type": "Cleanser",
+      "category": "Cleansers",
+      "price": 12.99,
+      "description": "Gentle foaming cleanser for daily use, suitable for all skin types.",
+      "imageUrl": "https://images.ctfassets.net/bcjr30vxh6td/4esaSqBSWng3GFcgn86ZxH/687d37820be044bd2ecc02980233df2a/6806422_Carousel_1-Neutrogena?fm=webp&w=1024"
+    },
+    {
+      "id": 7,
+      "name": "Azelaic Acid Suspension 10%",
+      "brand": "The Ordinary",
+      "type": "Serum",
+      "category": "Serums",
+      "price": 11.00,
+      "description": "Brightening serum for rosacea and hyperpigmentation.",
+      "imageUrl": "https://theordinary.com/dw/image/v2/BFKJ_PRD/on/demandware.static/-/Sites-deciem-master/default/dw711cec9a/Images/products/The%20Ordinary/rdn-azelaic-acid-suspension-10pct-30ml.png?sw=800&sh=800&sm=fit"
+    },
+    {
+      "id": 8,
+      "name": "Calming Zinc Soap",
+      "brand": "La Roche-Posay",
+      "type": "Cleanser",
+      "category": "Cleansers",
+      "price": 13.25,
+      "description": "Bar soap with zinc for acne control and soothing.",
+      "imageUrl": "https://www.laroche-posay.co.uk/dw/image/v2/AAQP_PRD/on/demandware.static/-/Sites-lrp-ng-master-catalog/default/dwdcce022c/LRP_Product/Serozinc/3433422406728_Serozinc_150ml_01_La-Roche-Posay.jpg?sw=698&sh=698&sm=cut&sfrm=jpg&q=70"
+    },
+    {
+      "id": 9,
+      "name": "Barrier Repair Cream",
+      "brand": "CeraVe",
+      "type": "Moisturizer",
+      "category": "Moisturizers",
+      "price": 19.99,
+      "description": "Ceramide-rich cream to restore skin barrier.",
+      "imageUrl": "https://www.cerave.com/dw/image/v2/BFPR_PRD/on/demandware.static/-/Sites-cerave-master-catalog/default/dw0a0b0b0a/hi-res/moisturizing-cream-16-oz.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Niacinamide 10% + Zinc 1%",
+      "brand": "The Ordinary",
+      "type": "Serum",
+      "category": "Serums",
+      "price": 6.50,
+      "description": "Serum to reduce blemishes and strengthen skin barrier.",
+      "imageUrl": "https://www.cerave.eg/-/media/project/loreal/brand-sites/cerave/americas/eg/resized-pdp-packshot-images/onedrive_1_8-23-2022/moisturising-cream/177ml/moisturising-cream-177ml-sm.png?rev=8e86b16cbd53491d8bef49b3d19fcdd9&sc_lang=en?w=500&hash=92B9F437B769A29120EBBE0079D2D038"
+    },
+    {
+      "id": 11,
+      "name": "Foaming Gel Cleanser",
+      "brand": "La Roche-Posay",
+      "type": "Cleanser",
+      "category": "Cleansers",
+      "price": 18.00,
+      "description": "Purifying cleanser for oily and acne-prone skin.",
+      "imageUrl": "https://www.laroche-posay.me/-/media/project/loreal/brand-sites/lrp/apac/mena/products/effaclar/effaclar-cleansing-foaming-gel/la-roche-posay-productpage-acne-effaclar-cleansing-foaming-gel-400ml-3337872411991-zoom-front-n.png"
+    },
+    {
+      "id": 12,
+      "name": "Repairing Moisturizer",
+      "brand": "Eucerin",
+      "type": "Moisturizer",
+      "category": "Moisturizers",
+      "price": 16.50,
+      "description": "Q10 anti-wrinkle moisturizer for mature skin.",
+      "imageUrl": "https://f.nooncdn.com/p/v1583579129/N35273643A_1.jpg?width=800"
+    },
+    {
+      "id": 13,
+      "name": "Micellar Water",
+      "brand": "Bioderma",
+      "type": "Cleanser",
+      "category": "Cleansers",
+      "price": 15.00,
+      "description": "Gentle makeup remover and cleanser for all skin types.",
+      "imageUrl": "https://www.bioderma.eg/sites/eg/files/styles/product_packshot_slider/public/products/%7B40465%7D_%7B%7D_%7B28703X%7D.png?itok=WjrVZYP9"
+    },
+    {
+      "id": 14,
+      "name": "Hyaluronic Acid Serum",
+      "brand": "CeraVe",
+      "type": "Serum",
+      "category": "Serums",
+      "price": 22.00,
+      "description": "Multi-molecular weight hyaluronic acid for deep hydration.",
+      "imageUrl": "https://www.cerave.com/-/media/project/loreal/brand-sites/cerave/americas/us/products/hydrating-hyaluronic-acid-serum/hydrating-hyaluronic-acid-serum_front.jpg?rev=cd54a22da0584f32bc76bab5aae6e72a&w=900&hash=D897467A64C8AD7921B81F70D0D7DD02"
+    },
+    {
+      "id": 15,
+      "name": "Hydrating Moisturizer",
+      "brand": "CeraVe",
+      "type": "Moisturizer",
+      "category": "Moisturizers",
+      "price": 18.50,
+      "description": "Lightweight moisturizer with hyaluronic acid for dry skin.",
+      "imageUrl": "https://www.cerave.eg/-/media/project/loreal/brand-sites/cerave/americas/eg/resized-pdp-packshot-images/onedrive_1_8-23-2022/moisturising-cream/177ml/moisturising-cream-177ml-sm.png?rev=8e86b16cbd53491d8bef49b3d19fcdd9&sc_lang=en?w=500&hash=92B9F437B769A29120EBBE0079D2D038"
+    },
+    {
+      "id": 16,
+      "name": "Brightening Cleanser",
+      "brand": "The Ordinary",
+      "type": "Cleanser",
+      "category": "Cleansers",
+      "price": 11.50,
+      "description": "Sulfate-free cleanser with mandelic acid for gentle exfoliation.",
+      "imageUrl": "https://theordinary.com/dw/image/v2/BFKJ_PRD/on/demandware.static/-/Sites-deciem-master/default/dwe8ac30c1/Images/products/The%20Ordinary/rdn-glycolipid-cream-cleanser-150ml.png?sw=800&sh=800&sm=fit"
+    },
+    {
+      "id": 17,
+      "name": "Gel-Cream Moisturizer",
+      "brand": "Neutrogena",
+      "type": "Moisturizer",
+      "category": "Moisturizers",
+      "price": 20.50,
+      "description": "Hydro boost gel-cream for all-day hydration.",
+      "imageUrl": "https://images.ctfassets.net/bcjr30vxh6td/3YLOkWLsP0l57daPkxXjeQ/1858520708b40512fb0a72cd310e0f58/6806482_Carousel_1.webp?fm=webp&w=1024"
+    },
+    {
+      "id": 18,
+      "name": "Retinol Serum",
+      "brand": "The Ordinary",
+      "type": "Serum",
+      "category": "Serums",
+      "price": 8.99,
+      "description": "Anti-aging serum with 0.2% retinol for reducing fine lines.",
+      "imageUrl": "https://theordinary.com/dw/image/v2/BFKJ_PRD/on/demandware.static/-/Sites-deciem-master/default/dwa8c028f4/Images/products/The%20Ordinary/rdn-retinol-1pct-in-squalane-30ml.png?sw=800&sh=800&sm=fit"
+    },
+    {
+      "id": 19,
+      "name": "Resveratrol Serum",
+      "brand": "The Ordinary",
+      "type": "Serum",
+      "category": "Serums",
+      "price": 10.50,
+      "description": "Antioxidant serum with resveratrol and ferulic acid.",
+      "imageUrl": "https://theordinary.com/dw/image/v2/BFKJ_PRD/on/demandware.static/-/Sites-deciem-master/default/dw096f2502/Images/products/The%20Ordinary/rdn-resveratrol-3pct-ferulic-acid-3pct-30ml.png?sw=800&sh=800&sm=fit"
+    },
+    {
+      "id": 20,
+      "name": "Salicylic Acid Cleanser",
+      "brand": "Paula's Choice",
+      "type": "Cleanser",
+      "category": "Cleansers",
+      "price": 22.00,
+      "description": "Blemish-fighting cleanser for acne-prone skin.",
+      "imageUrl": "https://www.paulaschoice.com/dw/image/v2/BBNX_PRD/on/demandware.static/-/Sites-pc-catalog/default/dw1cc2db81/images/products/clear-pore-normalizing-cleanser-6001-portrait.png?sw=1000&sfrm=png"
+    },
+    {
+      "id": 21,
+      "name": "Moisturizing Lotion",
+      "brand": "Aveeno",
+      "type": "Moisturizer",
+      "category": "Moisturizers",
+      "price": 12.00,
+      "description": "Daily lotion with soy for soft, smooth skin.",
+      "imageUrl": "https://images.ctfassets.net/mgaihfszrtka/tZjofWVTANpylnUqtc2w7/0aaa177957bf20a5ee2321bc1277906c/DM_Body_Lotion_-_2.5oz.webp?fm=webp&w=1024"
+    },
+    {
+      "id": 22,
+      "name": "Vitamin C Serum",
+      "brand": "Paula's Choice",
+      "type": "Serum",
+      "category": "Serums",
+      "price": 45.00,
+      "description": "Stable vitamin C serum for brightening and antioxidant protection.",
+      "imageUrl": "https://www.paulaschoice.com/dw/image/v2/BBNX_PRD/on/demandware.static/-/Sites-pc-catalog/default/dwde8a69e6/images/products/25-percent-vitamin-c-glutathione-clinical-serum-1490-portrait.png?sw=1000&sfrm=png"
+    },
+    {
+      "id": 23,
+      "name": "Oatmeal Face Wash",
+      "brand": "Aveeno",
+      "type": "Cleanser",
+      "category": "Cleansers",
+      "price": 9.99,
+      "description": "Soothing cleanser with colloidal oatmeal for sensitive skin.",
+      "imageUrl": "https://images.ctfassets.net/mgaihfszrtka/39oys2nzLMczfFg8JM7ZMo/8fb0ebfbe3ff29d87e85d1984e2df2eb/DM_Body_wash_-_2oz.webp?fm=webp&w=1024"
+    },
+    {
+      "id": 24,
+      "name": "Anti-Aging Cream",
+      "brand": "Clinique",
+      "type": "Moisturizer",
+      "category": "Moisturizers",
+      "price": 45.00,
+      "description": "Rich cream with peptides to minimize wrinkles.",
+      "imageUrl": "https://www.clinique.com/media/export/cms/products/1200x1500/cl_sku_V46N01_1200x1500_0.png"
+    },
+    {
+      "id": 25,
+      "name": "Hyaluronic Acid 2% + B5",
+      "brand": "The Ordinary",
+      "type": "Serum",
+      "category": "Serums",
+      "price": 9.20,
+      "description": "Intense hydration serum for plump, dewy skin.",
+      "imageUrl": "https://theordinary.com/dw/image/v2/BFKJ_PRD/on/demandware.static/-/Sites-deciem-master/default/dw67286abd/Images/products/The%20Ordinary/ord-hyaluronic-acid-2pct-B5-30ml-Clr-Acu.png?sw=800&sh=800&sm=fit"
+    },
+    {
+      "id": 26,
+      "name": "Hydrating Cream Cleanser",
+      "brand": "First Aid Beauty",
+      "type": "Cleanser",
+      "category": "Cleansers",
+      "price": 20.00,
+      "description": "Creamy cleanser for dry skin without stripping moisture.",
+      "imageUrl": "https://www.firstaidbeauty.com/cdn/shop/files/FaceCleanser5oz_6306da74-fede-4ee9-b302-6c31e43d870b.jpg?v=1718384705&width=823"
+    },
+    {
+      "id": 27,
+      "name": "Daily Moisturizer",
+      "brand": "Cetaphil",
+      "type": "Moisturizer",
+      "category": "Moisturizers",
+      "price": 14.75,
+      "description": "Non-comedogenic moisturizer for normal to oily skin.",
+      "imageUrl": "https://www.cetaphil.com/dw/image/v2/BGGN_PRD/on/demandware.static/-/Sites-galderma-us-m-catalog/default/dwb6b94f8e/Daily%20Facial%20Moisturizer%20SPF%2035,/New%20revive/083215_DFM_SPF35_3oz_Pump-Front.PNG?sw=900&sh=900&sm=fit&q=85"
+    },
+    {
+      "id": 28,
+      "name": "Multi-Peptide + HA Serum",
+      "brand": "The Ordinary",
+      "type": "Serum",
+      "category": "Serums",
+      "price": 15.90,
+      "description": "Multi-peptide serum for firmer, more youthful skin.",
+      "imageUrl":"https://theordinary.com/dw/image/v2/BFKJ_PRD/on/demandware.static/-/Sites-deciem-master/default/dw68423659/Images/products/The%20Ordinary/rdn-multi-peptide-ha-serum-30ml.png?sw=800&sh=800&sm=fit"
+    },
+    {
+      "id": 29,
+      "name": "Ultra Gentle Daily Cleanser",
+      "brand": "CeraVe",
+      "type": "Cleanser",
+      "category": "Cleansers",
+      "price": 14.99,
+      "description": "Hydrating cleanser with ceramides to maintain skin barrier.",
+      "imageUrl": "https://www.cerave.eg/-/media/project/loreal/brand-sites/cerave/americas/eg/latest_pdp_images/hyderating-facial-cleanser/hydrating-cleanser-236ml-lg.jpg?rev=9285547f578645c29acf53eb565327a1?w=500&hash=D9AA6DA49ECE259670D6153691E87BA8"
+    },
+    {
+      "id": 30,
+      "name": "Night Cream",
+      "brand": "Olay",
+      "type": "Moisturizer",
+      "category": "Moisturizers",
+      "price": 25.99,
+      "description": "Regenerist night recovery cream for overnight repair.",
+      "imageUrl": "https://cdn11.bigcommerce.com/s-gud7r2x2lu/images/stencil/640w/products/460/8240/MOI_Olay_EN_ActiveHydratingOriginalCream_2oz__95032.1752608338.jpg?c=2"
+    }
+  ]
+}
