@@ -2,303 +2,301 @@
   "data": [
     {
       "id": 1,
-      "name": "Oil Control Moisturizer",
-      "brand": "Neutrogena",
-      "type": "Moisturizer",
-      "category": "Moisturizers",
-      "price": 17.25,
-      "description": "Mattifying moisturizer for oily and combination skin.",
-      "imageUrl": "https://images.ctfassets.net/bcjr30vxh6td/4xdNNMhPq0H6PRcO17mfz2/96f5ed7f9e80b55f862cf4488630f412/6807835_Carousel1_V2.webp?fm=webp&w=1024"
+      "name": "Low pH Good Morning Gel Cleanser",
+      "brand": "COSRX",
+      "type": "Cleanser",
+      "category": "Cleansers",
+      "price": 11.99,
+      "description": "Gentle pH-balanced gel cleanser for morning routine, removes impurities without stripping moisture.",
+      "imageUrl": "https://www.cosmostoreegypt.com/wp-content/uploads/2024/06/cosrx-low-ph-good-morning-gel-cleanser-150ml.jpg"
     },
     {
       "id": 2,
-      "name": "Vitamin C Suspension 23% + HA Spheres 2%",
-      "brand": "The Ordinary",
+      "name": "Advanced Snail 96 Mucin Power Essence",
+      "brand": "COSRX",
       "type": "Serum",
       "category": "Serums",
-      "price": 7.80,
-      "description": "Brightening serum with 23% vitamin C to even skin tone.",
-      "imageUrl": "https://i.ebayimg.com/thumbs/images/g/6yAAAOSwrxRoHwTQ/s-l500.jpg"
+      "price": 14.99,
+      "description": "Hydrating snail mucin essence for skin repair and glow, a Misshaus bestseller.",
+      "imageUrl": "https://media.zid.store/e501090e-e273-4dae-95c1-0764aba488b4/dc43e6d7-0bcc-4fd5-8349-30835052ffd5.jpg"
     },
     {
       "id": 3,
-      "name": "Gentle Skin Cleanser",
-      "brand": "Cetaphil",
+      "name": "Jeju Volcanic Pore Clay Mask",
+      "brand": "Innisfree",
       "type": "Cleanser",
       "category": "Cleansers",
-      "price": 10.50,
-      "description": "Fragrance-free cleanser ideal for dry and sensitive skin.",
-      "imageUrl": "https://www.cetaphil.com/dw/image/v2/BGGN_PRD/on/demandware.static/-/Sites-galderma-us-m-catalog/default/dw554054cc/302990100624/GSC-RESIZE-1.2X.png?sw=900&sh=900&sm=fit&q=85"
+      "price": 12.50,
+      "description": "Clay mask cleanser with Jeju volcanic clay to unclog pores and control oil.",
+      "imageUrl": "https://us.innisfree.com/cdn/shop/files/IF_V-CM_PDP_01_Packshot_2024_1080x1080_cbbd6762-1ece-4aaa-a06b-0fb4290b37c8.jpg?v=1703776282&width=1080"
     },
     {
       "id": 4,
-      "name": "Ultra-Light Moisturizer",
-      "brand": "La Roche-Posay",
-      "type": "Moisturizer",
-      "category": "Moisturizers",
-      "price": 28.00,
-      "description": "Toleriane ultra-light fluid for sensitive skin.",
-      "imageUrl": "https://www.laroche-posay.us/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-acd-laroche-posay-master-catalog/default/dwccbace41/img/3337875545846/1_Toleriane_DblRepairMoisturizerUV_Tube.jpg?sw=1440&sh=1440&sm=cut&sfrm=jpg&q=70"
+      "name": "Green Tea Seed Serum",
+      "brand": "Innisfree",
+      "type": "Serum",
+      "category": "Serums",
+      "price": 22.00,
+      "description": "Antioxidant-rich serum with green tea seeds for soothing and brightening.",
+      "imageUrl": "https://us.innisfree.com/cdn/shop/files/01_IF_GT-HS_Packshot_2024_01_1080x1080_1b6524d9-595a-42a0-b57f-4532b11278cb.jpg?v=1756508600&width=1080"
     },
     {
       "id": 5,
-      "name": "Lactic Acid 5% + HA",
-      "brand": "The Ordinary",
-      "type": "Serum",
-      "category": "Serums",
-      "price": 8.30,
-      "description": "Gentle exfoliating serum with 5% lactic acid.",
-      "imageUrl": "https://theordinary.com/dw/image/v2/BFKJ_PRD/on/demandware.static/-/Sites-deciem-master/default/dwff3b7bf8/Images/products/The%20Ordinary/rdn-lactic-acid-5pct-ha-30ml.png?sw=800&sh=800&sm=fit"
+      "name": "Water Bank Blue Hyaluronic Cream",
+      "brand": "Laneige",
+      "type": "Moisturizer",
+      "category": "Moisturizers",
+      "price": 28.00,
+      "description": "Hyaluronic acid-infused cream for deep hydration and plump skin.",
+      "imageUrl": "https://us.laneige.com/cdn/shop/files/LN_WBCM_24AD_Product_02.jpg?v=1703778486&width=1080"
     },
     {
       "id": 6,
-      "name": "Cleansing Foam",
-      "brand": "Neutrogena",
-      "type": "Cleanser",
-      "category": "Cleansers",
-      "price": 12.99,
-      "description": "Gentle foaming cleanser for daily use, suitable for all skin types.",
-      "imageUrl": "https://images.ctfassets.net/bcjr30vxh6td/4esaSqBSWng3GFcgn86ZxH/687d37820be044bd2ecc02980233df2a/6806422_Carousel_1-Neutrogena?fm=webp&w=1024"
+      "name": "Cicapair Tiger Grass Color Correcting Treatment",
+      "brand": "Dr. Jart+",
+      "type": "Serum",
+      "category": "Serums",
+      "price": 32.00,
+      "description": "Centella-based serum for calming redness and evening skin tone.",
+      "imageUrl": "https://gomyz.com/media/catalog/product/cache/ed71e6947664464904fc81a10ba92dd4/d/r/dr._jart_cicapair_tiger_grass_color_correcting_treatment_15ml_8809535803221_1.jpg.mst.webp"
     },
     {
       "id": 7,
-      "name": "Azelaic Acid Suspension 10%",
-      "brand": "The Ordinary",
-      "type": "Serum",
-      "category": "Serums",
-      "price": 11.00,
-      "description": "Brightening serum for rosacea and hyperpigmentation.",
-      "imageUrl": "https://theordinary.com/dw/image/v2/BFKJ_PRD/on/demandware.static/-/Sites-deciem-master/default/dw711cec9a/Images/products/The%20Ordinary/rdn-azelaic-acid-suspension-10pct-30ml.png?sw=800&sh=800&sm=fit"
+      "name": "Ceramidin Skin Barrier Moisturizing Cream",
+      "brand": "Dr. Jart+",
+      "type": "Moisturizer",
+      "category": "Moisturizers",
+      "price": 38.00,
+      "description": "Ceramide-rich cream to strengthen skin barrier and lock in moisture.",
+      "imageUrl": "https://www.drjart.co.uk/media/export/cms/products/1000x1000/dj_sku_H7D201_1000x1000_0.jpg"
     },
     {
       "id": 8,
-      "name": "Calming Zinc Soap",
-      "brand": "La Roche-Posay",
+      "name": "Rice Water Bright Light Cleansing Foam",
+      "brand": "The Face Shop",
       "type": "Cleanser",
       "category": "Cleansers",
-      "price": 13.25,
-      "description": "Bar soap with zinc for acne control and soothing.",
-      "imageUrl": "https://www.laroche-posay.co.uk/dw/image/v2/AAQP_PRD/on/demandware.static/-/Sites-lrp-ng-master-catalog/default/dwdcce022c/LRP_Product/Serozinc/3433422406728_Serozinc_150ml_01_La-Roche-Posay.jpg?sw=698&sh=698&sm=cut&sfrm=jpg&q=70"
+      "price": 13.00,
+      "description": "Brightening foam cleanser with rice water for gentle exfoliation and clarity.",
+      "imageUrl": "https://contour-plus.com/upload/12-2024/product/IMG_5647-IDX.jpeg"
     },
     {
       "id": 9,
-      "name": "Barrier Repair Cream",
-      "brand": "CeraVe",
-      "type": "Moisturizer",
-      "category": "Moisturizers",
-      "price": 19.99,
-      "description": "Ceramide-rich cream to restore skin barrier.",
-      "imageUrl": "https://www.cerave.com/dw/image/v2/BFPR_PRD/on/demandware.static/-/Sites-cerave-master-catalog/default/dw0a0b0b0a/hi-res/moisturizing-cream-16-oz.jpg"
+      "name": "Time Revolution The First Treatment Essence",
+      "brand": "Missha",
+      "type": "Serum",
+      "category": "Serums",
+      "price": 25.00,
+      "description": "Fermented yeast essence for refined texture and enhanced absorption.",
+      "imageUrl": "https://missha.com/upload/product/productmanage/202112031549251c99799f-d287-41ca-82fa-35f892ea06be.jpg"
     },
     {
       "id": 10,
-      "name": "Niacinamide 10% + Zinc 1%",
-      "brand": "The Ordinary",
-      "type": "Serum",
-      "category": "Serums",
-      "price": 6.50,
-      "description": "Serum to reduce blemishes and strengthen skin barrier.",
-      "imageUrl": "https://www.cerave.eg/-/media/project/loreal/brand-sites/cerave/americas/eg/resized-pdp-packshot-images/onedrive_1_8-23-2022/moisturising-cream/177ml/moisturising-cream-177ml-sm.png?rev=8e86b16cbd53491d8bef49b3d19fcdd9&sc_lang=en?w=500&hash=92B9F437B769A29120EBBE0079D2D038"
+      "name": "Super Aqua Cell Renew Snail Cream",
+      "brand": "Missha",
+      "type": "Moisturizer",
+      "category": "Moisturizers",
+      "price": 24.00,
+      "description": "Snail mucin cream for anti-aging and intense hydration.",
+      "imageUrl": "https://missha.com/upload/product/productmanage/20210511101822d28090ba-9f6f-481e-94d6-1d4f64a00e22.jpg"
     },
     {
       "id": 11,
-      "name": "Foaming Gel Cleanser",
-      "brand": "La Roche-Posay",
+      "name": "SoonJung pH 6.5 Whip Cleanser",
+      "brand": "Etude House",
       "type": "Cleanser",
       "category": "Cleansers",
-      "price": 18.00,
-      "description": "Purifying cleanser for oily and acne-prone skin.",
-      "imageUrl": "https://www.laroche-posay.me/-/media/project/loreal/brand-sites/lrp/apac/mena/products/effaclar/effaclar-cleansing-foaming-gel/la-roche-posay-productpage-acne-effaclar-cleansing-foaming-gel-400ml-3337872411991-zoom-front-n.png"
+      "price": 10.50,
+      "description": "Mild whip cleanser for sensitive skin, pH-balanced to avoid irritation.",
+      "imageUrl": "https://f.nooncdn.com/p/v1571737572/N31225947A_1.jpg?width=800"
     },
     {
       "id": 12,
-      "name": "Repairing Moisturizer",
-      "brand": "Eucerin",
+      "name": "Moistfull Collagen Foundation Cream",
+      "brand": "Etude House",
       "type": "Moisturizer",
       "category": "Moisturizers",
-      "price": 16.50,
-      "description": "Q10 anti-wrinkle moisturizer for mature skin.",
-      "imageUrl": "https://f.nooncdn.com/p/v1583579129/N35273643A_1.jpg?width=800"
+      "price": 18.00,
+      "description": "Collagen-boosting cream for firm, hydrated skin with a natural glow.",
+      "imageUrl": "https://i.ebayimg.com/images/g/ncsAAOSwq-Jn5lVk/s-l1600.webp"
     },
     {
       "id": 13,
-      "name": "Micellar Water",
-      "brand": "Bioderma",
+      "name": "Clean It Zero Original Cleansing Balm",
+      "brand": "Banila Co",
       "type": "Cleanser",
       "category": "Cleansers",
-      "price": 15.00,
-      "description": "Gentle makeup remover and cleanser for all skin types.",
-      "imageUrl": "https://www.bioderma.eg/sites/eg/files/styles/product_packshot_slider/public/products/%7B40465%7D_%7B%7D_%7B28703X%7D.png?itok=WjrVZYP9"
+      "price": 18.50,
+      "description": "Balm-to-oil cleanser for effortless makeup removal and deep cleansing.",
+      "imageUrl": "https://koreanbeautys.com/cdn/shop/products/image_80003c82-a16c-43b4-a519-14dee161f40a.webp?v=1660943917&width=1080"
     },
     {
       "id": 14,
-      "name": "Hyaluronic Acid Serum",
-      "brand": "CeraVe",
+      "name": "Centella Green Level Buffet Serum",
+      "brand": "Purito",
       "type": "Serum",
       "category": "Serums",
-      "price": 22.00,
-      "description": "Multi-molecular weight hyaluronic acid for deep hydration.",
-      "imageUrl": "https://www.cerave.com/-/media/project/loreal/brand-sites/cerave/americas/us/products/hydrating-hyaluronic-acid-serum/hydrating-hyaluronic-acid-serum_front.jpg?rev=cd54a22da0584f32bc76bab5aae6e72a&w=900&hash=D897467A64C8AD7921B81F70D0D7DD02"
+      "price": 19.00,
+      "description": "Multi-ingredient serum with centella for soothing and barrier repair.",
+      "imageUrl": "https://koreanbeautys.com/cdn/shop/products/image_6b7649d7-cdd7-417e-afd3-f2b7d42de028.jpg?v=1669035021&width=1800"
     },
     {
       "id": 15,
-      "name": "Hydrating Moisturizer",
-      "brand": "CeraVe",
-      "type": "Moisturizer",
-      "category": "Moisturizers",
-      "price": 18.50,
-      "description": "Lightweight moisturizer with hyaluronic acid for dry skin.",
-      "imageUrl": "https://www.cerave.eg/-/media/project/loreal/brand-sites/cerave/americas/eg/resized-pdp-packshot-images/onedrive_1_8-23-2022/moisturising-cream/177ml/moisturising-cream-177ml-sm.png?rev=8e86b16cbd53491d8bef49b3d19fcdd9&sc_lang=en?w=500&hash=92B9F437B769A29120EBBE0079D2D038"
+      "name": "Radian-C Lemon Relief Serum",
+      "brand": "Isntree",
+      "type": "Serum",
+      "category": "Serums",
+      "price": 16.00,
+      "description": "Vitamin C serum with lemon extract for brightening without irritation.",
+      "imageUrl": "https://theisntree.com/wp-content/uploads/2025/06/Isntree-Vitamin-C-Serum1.jpg"
     },
     {
       "id": 16,
-      "name": "Brightening Cleanser",
-      "brand": "The Ordinary",
+      "name": "All Clean Green Foam",
+      "brand": "Heimish",
       "type": "Cleanser",
       "category": "Cleansers",
-      "price": 11.50,
-      "description": "Sulfate-free cleanser with mandelic acid for gentle exfoliation.",
-      "imageUrl": "https://theordinary.com/dw/image/v2/BFKJ_PRD/on/demandware.static/-/Sites-deciem-master/default/dwe8ac30c1/Images/products/The%20Ordinary/rdn-glycolipid-cream-cleanser-150ml.png?sw=800&sh=800&sm=fit"
+      "price": 14.00,
+      "description": "Natural green tea foam cleanser for purifying and balancing skin.",
+      "imageUrl": "https://heimish.us/cdn/shop/products/13c512b6b65051606cce39fd2be86634.jpg?v=1678252843&width=1100"
     },
     {
       "id": 17,
-      "name": "Gel-Cream Moisturizer",
-      "brand": "Neutrogena",
+      "name": "Oil-Free Ultra-Moisturizing Lotion",
+      "brand": "COSRX",
       "type": "Moisturizer",
       "category": "Moisturizers",
-      "price": 20.50,
-      "description": "Hydro boost gel-cream for all-day hydration.",
-      "imageUrl": "https://images.ctfassets.net/bcjr30vxh6td/3YLOkWLsP0l57daPkxXjeQ/1858520708b40512fb0a72cd310e0f58/6806482_Carousel_1.webp?fm=webp&w=1024"
+      "price": 20.00,
+      "description": "Birch sap lotion for lightweight hydration on oily or acne-prone skin.",
+      "imageUrl": "https://media.zid.store/e501090e-e273-4dae-95c1-0764aba488b4/2af2b4b7-83eb-4ede-94fe-b9eddb734989.jpg"
     },
     {
       "id": 18,
-      "name": "Retinol Serum",
-      "brand": "The Ordinary",
+      "name": "Madecassoside Blemish Serum",
+      "brand": "A'pieu",
       "type": "Serum",
       "category": "Serums",
-      "price": 8.99,
-      "description": "Anti-aging serum with 0.2% retinol for reducing fine lines.",
-      "imageUrl": "https://theordinary.com/dw/image/v2/BFKJ_PRD/on/demandware.static/-/Sites-deciem-master/default/dwa8c028f4/Images/products/The%20Ordinary/rdn-retinol-1pct-in-squalane-30ml.png?sw=800&sh=800&sm=fit"
+      "price": 15.50,
+      "description": "Madecassoside serum for reducing blemishes and calming inflammation.",
+      "imageUrl": "Madecassoside Blemish Serum"
     },
     {
       "id": 19,
-      "name": "Resveratrol Serum",
-      "brand": "The Ordinary",
-      "type": "Serum",
-      "category": "Serums",
-      "price": 10.50,
-      "description": "Antioxidant serum with resveratrol and ferulic acid.",
-      "imageUrl": "https://theordinary.com/dw/image/v2/BFKJ_PRD/on/demandware.static/-/Sites-deciem-master/default/dw096f2502/Images/products/The%20Ordinary/rdn-resveratrol-3pct-ferulic-acid-3pct-30ml.png?sw=800&sh=800&sm=fit"
+      "name": "Dr. Belmeur Clarifying Moisture Cream",
+      "brand": "The Face Shop",
+      "type": "Moisturizer",
+      "category": "Moisturizers",
+      "price": 23.00,
+      "description": "Clarifying cream for acne-prone skin with soothing herbal extracts.",
+      "imageUrl": "https://www.thefaceshop.com.au/cdn/shop/files/ClarifyingFacialMoisturizer1.jpg?v=1716442617&width=1280"
     },
     {
       "id": 20,
-      "name": "Salicylic Acid Cleanser",
-      "brand": "Paula's Choice",
+      "name": "Watery Sun Gel Mild Sunscreen",
+      "brand": "Isntree",
       "type": "Cleanser",
       "category": "Cleansers",
-      "price": 22.00,
-      "description": "Blemish-fighting cleanser for acne-prone skin.",
-      "imageUrl": "https://www.paulaschoice.com/dw/image/v2/BBNX_PRD/on/demandware.static/-/Sites-pc-catalog/default/dw1cc2db81/images/products/clear-pore-normalizing-cleanser-6001-portrait.png?sw=1000&sfrm=png"
+      "price": 17.00,
+      "description": "Lightweight sunscreen cleanser hybrid for daily protection and cleansing.",
+      "imageUrl": "https://anwar.store/cdn/shop/files/wwrCvTxJbp7i4nyjqSy149QlqpD2nIq0IGKEfyp3.webp?v=1726073817"
     },
     {
       "id": 21,
-      "name": "Moisturizing Lotion",
-      "brand": "Aveeno",
+      "name": "Natural Perfection Fresh Sun Cream",
+      "brand": "AHC",
       "type": "Moisturizer",
       "category": "Moisturizers",
-      "price": 12.00,
-      "description": "Daily lotion with soy for soft, smooth skin.",
-      "imageUrl": "https://images.ctfassets.net/mgaihfszrtka/tZjofWVTANpylnUqtc2w7/0aaa177957bf20a5ee2321bc1277906c/DM_Body_Lotion_-_2.5oz.webp?fm=webp&w=1024"
+      "price": 30.00,
+      "description": "SPF-infused moisturizer for hydration and UV protection in one.",
+      "imageUrl": "https://openthebeauty.com/cdn/shop/products/AHCNaturalPerfectionMoistSunCream_grande.png?v=1682313020"
     },
     {
       "id": 22,
-      "name": "Vitamin C Serum",
-      "brand": "Paula's Choice",
+      "name": "Hyaluronic Acid Watery Sun Gel",
+      "brand": "Round Lab",
       "type": "Serum",
       "category": "Serums",
-      "price": 45.00,
-      "description": "Stable vitamin C serum for brightening and antioxidant protection.",
-      "imageUrl": "https://www.paulaschoice.com/dw/image/v2/BBNX_PRD/on/demandware.static/-/Sites-pc-catalog/default/dwde8a69e6/images/products/25-percent-vitamin-c-glutathione-clinical-serum-1490-portrait.png?sw=1000&sfrm=png"
+      "price": 21.00,
+      "description": "Hyaluronic sun serum for hydration and broad-spectrum protection.",
+      "imageUrl": "https://www.ksecret.com/images/thumbs/0009169_round-lab-birch-juice-moisturizing-serum.jpeg"
     },
     {
       "id": 23,
-      "name": "Oatmeal Face Wash",
-      "brand": "Aveeno",
+      "name": "Pure Cleansing Oil",
+      "brand": "Etude House",
       "type": "Cleanser",
       "category": "Cleansers",
-      "price": 9.99,
-      "description": "Soothing cleanser with colloidal oatmeal for sensitive skin.",
-      "imageUrl": "https://images.ctfassets.net/mgaihfszrtka/39oys2nzLMczfFg8JM7ZMo/8fb0ebfbe3ff29d87e85d1984e2df2eb/DM_Body_wash_-_2oz.webp?fm=webp&w=1024"
+      "price": 12.00,
+      "description": "Non-comedogenic oil cleanser for removing heavy makeup gently.",
+      "imageUrl": "https://i0.wp.com/fiftyshadesofsnail.com/wp-content/uploads/2015/10/etude-house-real-art-moisture-cleansing-oil-front.jpg?w=2100&h=&crop=1&ssl=1"
     },
     {
       "id": 24,
-      "name": "Anti-Aging Cream",
-      "brand": "Clinique",
-      "type": "Moisturizer",
-      "category": "Moisturizers",
-      "price": 45.00,
-      "description": "Rich cream with peptides to minimize wrinkles.",
-      "imageUrl": "https://www.clinique.com/media/export/cms/products/1200x1500/cl_sku_V46N01_1200x1500_0.png"
+      "name": "NeoGenesis Recovery Serum",
+      "brand": "Purito",
+      "type": "Serum",
+      "category": "Serums",
+      "price": 26.00,
+      "description": "Recovery serum with peptides for post-treatment skin soothing.",
+      "imageUrl":"https://neogenesis.com/wp-content/uploads/2024/01/Recovery_30mL_1200px-e1706054838170.jpg"
     },
     {
       "id": 25,
-      "name": "Hyaluronic Acid 2% + B5",
-      "brand": "The Ordinary",
-      "type": "Serum",
-      "category": "Serums",
-      "price": 9.20,
-      "description": "Intense hydration serum for plump, dewy skin.",
-      "imageUrl": "https://theordinary.com/dw/image/v2/BFKJ_PRD/on/demandware.static/-/Sites-deciem-master/default/dw67286abd/Images/products/The%20Ordinary/ord-hyaluronic-acid-2pct-B5-30ml-Clr-Acu.png?sw=800&sh=800&sm=fit"
+      "name": "Dokdo Toner",
+      "brand": "I'm From",
+      "type": "Moisturizer",
+      "category": "Moisturizers",
+      "price": 19.50,
+      "description": "Sea water toner-moisturizer for balancing and hydrating sensitive skin.",
+      "imageUrl": "https://roundlab.com/cdn/shop/files/1025-dokdo-toner-round-lab-1.jpg?v=1747182479&width=990"
     },
     {
       "id": 26,
-      "name": "Hydrating Cream Cleanser",
-      "brand": "First Aid Beauty",
+      "name": "Citrus Brightening Cleansing Foam",
+      "brand": "A'pieu",
       "type": "Cleanser",
       "category": "Cleansers",
-      "price": 20.00,
-      "description": "Creamy cleanser for dry skin without stripping moisture.",
-      "imageUrl": "https://www.firstaidbeauty.com/cdn/shop/files/FaceCleanser5oz_6306da74-fede-4ee9-b302-6c31e43d870b.jpg?v=1718384705&width=823"
+      "price": 11.50,
+      "description": "Citrus-infused foam for brightening and refreshing the skin.",
+      "imageUrl": "https://shoptreve.com/cdn/shop/files/A59F4D50-2488-4E55-BF14-DFBF1E98FC43.webp?v=1754902527"
     },
     {
       "id": 27,
-      "name": "Daily Moisturizer",
-      "brand": "Cetaphil",
-      "type": "Moisturizer",
-      "category": "Moisturizers",
-      "price": 14.75,
-      "description": "Non-comedogenic moisturizer for normal to oily skin.",
-      "imageUrl": "https://www.cetaphil.com/dw/image/v2/BGGN_PRD/on/demandware.static/-/Sites-galderma-us-m-catalog/default/dwb6b94f8e/Daily%20Facial%20Moisturizer%20SPF%2035,/New%20revive/083215_DFM_SPF35_3oz_Pump-Front.PNG?sw=900&sh=900&sm=fit&q=85"
+      "name": "Barrier Repair Ampoule",
+      "brand": "Heimish",
+      "type": "Serum",
+      "category": "Serums",
+      "price": 22.50,
+      "description": "Ampoule serum for repairing damaged skin barrier with ceramides.",
+      "imageUrl": "https://shoptreve.com/cdn/shop/files/IMG_2714.webp?v=1754942445"
     },
     {
       "id": 28,
-      "name": "Multi-Peptide + HA Serum",
-      "brand": "The Ordinary",
-      "type": "Serum",
-      "category": "Serums",
-      "price": 15.90,
-      "description": "Multi-peptide serum for firmer, more youthful skin.",
-      "imageUrl":"https://theordinary.com/dw/image/v2/BFKJ_PRD/on/demandware.static/-/Sites-deciem-master/default/dw68423659/Images/products/The%20Ordinary/rdn-multi-peptide-ha-serum-30ml.png?sw=800&sh=800&sm=fit"
+      "name": "Essential Dewy Cream",
+      "brand": "Banila Co",
+      "type": "Moisturizer",
+      "category": "Moisturizers",
+      "price": 27.00,
+      "description": "Dewy finish cream for glowing, hydrated skin all day.",
+      "imageUrl": "https://banilausa.com/cdn/shop/files/DH_cream_19dca7dc-59e9-4df7-b4a5-0373226129a8.png?v=1727897011&width=990"
     },
     {
       "id": 29,
-      "name": "Ultra Gentle Daily Cleanser",
-      "brand": "CeraVe",
+      "name": "Onion Fresh Sun Cream",
+      "brand": "Isntree",
       "type": "Cleanser",
       "category": "Cleansers",
-      "price": 14.99,
-      "description": "Hydrating cleanser with ceramides to maintain skin barrier.",
-      "imageUrl": "https://www.cerave.eg/-/media/project/loreal/brand-sites/cerave/americas/eg/latest_pdp_images/hyderating-facial-cleanser/hydrating-cleanser-236ml-lg.jpg?rev=9285547f578645c29acf53eb565327a1?w=500&hash=D9AA6DA49ECE259670D6153691E87BA8"
+      "price": 15.00,
+      "description": "Onion extract cleanser with SPF for soothing and protection.",
+      "imageUrl": "https://koreanbeautys.com/cdn/shop/files/2C15F911-CF6B-4349-8724-9919738EC850.jpg?v=1718329406&width=1800"
     },
     {
       "id": 30,
-      "name": "Night Cream",
-      "brand": "Olay",
-      "type": "Moisturizer",
-      "category": "Moisturizers",
-      "price": 25.99,
-      "description": "Regenerist night recovery cream for overnight repair.",
-      "imageUrl": "https://cdn11.bigcommerce.com/s-gud7r2x2lu/images/stencil/640w/products/460/8240/MOI_Olay_EN_ActiveHydratingOriginalCream_2oz__95032.1752608338.jpg?c=2"
+      "name": "Youth Age Essence",
+      "brand": "Missha",
+      "type": "Serum",
+      "imageUrl":"https://static.beautytocare.com/cdn-cgi/image/width=1440,height=1200,f=auto/media/catalog/product//m/i/missha-time-revolution-immortal-youth-essence-2x-50ml.jpg"
     }
+
   ]
 }
