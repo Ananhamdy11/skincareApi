@@ -295,6 +295,9 @@
       "name": "Youth Age Essence",
       "brand": "Missha",
       "type": "Serum",
+      "category": "Serums",
+      "price":25.00,
+      "description":"Sea water toner-moisturizer for balancing and hydrating sensitive skin.",
       "imageUrl":"https://static.beautytocare.com/cdn-cgi/image/width=1440,height=1200,f=auto/media/catalog/product//m/i/missha-time-revolution-immortal-youth-essence-2x-50ml.jpg"
     }
 
