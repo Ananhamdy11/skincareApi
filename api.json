@@ -1,4 +1,4 @@
- {
+{
   "data": [
     {
       "id": 1,
@@ -9,7 +9,7 @@
       "price": 11.99,
       "description": "Gentle pH-balanced gel cleanser for morning routine, removes impurities without stripping moisture.",
       "imageUrl": "https://www.cosmostoreegypt.com/wp-content/uploads/2024/06/cosrx-low-ph-good-morning-gel-cleanser-150ml.jpg",
-      "rating":4.1
+      "rating": 4.1
     },
     {
       "id": 2,
@@ -20,7 +20,7 @@
       "price": 14.99,
       "description": "Hydrating snail mucin essence for skin repair and glow, a Misshaus bestseller.",
       "imageUrl": "https://media.zid.store/e501090e-e273-4dae-95c1-0764aba488b4/dc43e6d7-0bcc-4fd5-8349-30835052ffd5.jpg",
-      "rating":4.5
+      "rating": 4.5
     },
     {
       "id": 3,
@@ -28,11 +28,10 @@
       "brand": "Innisfree",
       "type": "Cleanser",
       "category": "Cleansers",
-      "price": 12.50,
+      "price": 12.5,
       "description": "Clay mask cleanser with Jeju volcanic clay to unclog pores and control oil.",
       "imageUrl": "https://us.innisfree.com/cdn/shop/files/IF_V-CM_PDP_01_Packshot_2024_1080x1080_cbbd6762-1ece-4aaa-a06b-0fb4290b37c8.jpg?v=1703776282&width=1080",
-      "rating":4.2
-
+      "rating": 4.2
     },
     {
       "id": 4,
@@ -40,11 +39,10 @@
       "brand": "Innisfree",
       "type": "Serum",
       "category": "Serums",
-      "price": 22.00,
+      "price": 22.0,
       "description": "Antioxidant-rich serum with green tea seeds for soothing and brightening.",
       "imageUrl": "https://us.innisfree.com/cdn/shop/files/01_IF_GT-HS_Packshot_2024_01_1080x1080_1b6524d9-595a-42a0-b57f-4532b11278cb.jpg?v=1756508600&width=1080",
-            "rating":4.9
-
+      "rating": 4.9
     },
     {
       "id": 5,
@@ -52,11 +50,10 @@
       "brand": "Laneige",
       "type": "Moisturizer",
       "category": "Moisturizers",
-      "price": 28.00,
+      "price": 28.0,
       "description": "Hyaluronic acid-infused cream for deep hydration and plump skin.",
       "imageUrl": "https://us.laneige.com/cdn/shop/files/LN_WBCM_24AD_Product_02.jpg?v=1703778486&width=1080",
-            "rating":4.5
-
+      "rating": 4.5
     },
     {
       "id": 6,
@@ -64,11 +61,10 @@
       "brand": "Dr. Jart+",
       "type": "Serum",
       "category": "Serums",
-      "price": 32.00,
+      "price": 32.0,
       "description": "Centella-based serum for calming redness and evening skin tone.",
       "imageUrl": "https://gomyz.com/media/catalog/product/cache/ed71e6947664464904fc81a10ba92dd4/d/r/dr._jart_cicapair_tiger_grass_color_correcting_treatment_15ml_8809535803221_1.jpg.mst.webp",
-            "rating":3.5
-
+      "rating": 3.5
     },
     {
       "id": 7,
@@ -76,11 +72,10 @@
       "brand": "Dr. Jart+",
       "type": "Moisturizer",
       "category": "Moisturizers",
-      "price": 38.00,
+      "price": 38.0,
       "description": "Ceramide-rich cream to strengthen skin barrier and lock in moisture.",
       "imageUrl": "https://www.drjart.co.uk/media/export/cms/products/1000x1000/dj_sku_H7D201_1000x1000_0.jpg",
-            "rating":3.9
-
+      "rating": 3.9
     },
     {
       "id": 8,
@@ -88,11 +83,10 @@
       "brand": "The Face Shop",
       "type": "Cleanser",
       "category": "Cleansers",
-      "price": 13.00,
+      "price": 13.0,
       "description": "Brightening foam cleanser with rice water for gentle exfoliation and clarity.",
       "imageUrl": "https://contour-plus.com/upload/12-2024/product/IMG_5647-IDX.jpeg",
-            "rating":4.0
-
+      "rating": 4.0
     },
     {
       "id": 9,
@@ -100,10 +94,10 @@
       "brand": "Missha",
       "type": "Serum",
       "category": "Serums",
-      "price": 25.00,
+      "price": 25.0,
       "description": "Fermented yeast essence for refined texture and enhanced absorption.",
       "imageUrl": "https://missha.com/upload/product/productmanage/202112031549251c99799f-d287-41ca-82fa-35f892ea06be.jpg",
-      "rating":5.0
+      "rating": 5.0
     },
     {
       "id": 10,
@@ -111,11 +105,10 @@
       "brand": "Missha",
       "type": "Moisturizer",
       "category": "Moisturizers",
-      "price": 24.00,
+      "price": 24.0,
       "description": "Snail mucin cream for anti-aging and intense hydration.",
       "imageUrl": "https://missha.com/upload/product/productmanage/20210511101822d28090ba-9f6f-481e-94d6-1d4f64a00e22.jpg",
-            "rating":4.1
-
+      "rating": 4.1
     },
     {
       "id": 11,
@@ -123,11 +116,10 @@
       "brand": "Etude House",
       "type": "Cleanser",
       "category": "Cleansers",
-      "price": 10.50,
+      "price": 10.5,
       "description": "Mild whip cleanser for sensitive skin, pH-balanced to avoid irritation.",
       "imageUrl": "https://f.nooncdn.com/p/v1571737572/N31225947A_1.jpg?width=800",
-            "rating":4.2
-
+      "rating": 4.2
     },
     {
       "id": 12,
@@ -135,11 +127,10 @@
       "brand": "Etude House",
       "type": "Moisturizer",
       "category": "Moisturizers",
-      "price": 18.00,
+      "price": 18.0,
       "description": "Collagen-boosting cream for firm, hydrated skin with a natural glow.",
       "imageUrl": "https://i.ebayimg.com/images/g/ncsAAOSwq-Jn5lVk/s-l1600.webp",
-            "rating":4.5
-
+      "rating": 4.5
     },
     {
       "id": 13,
@@ -147,11 +138,10 @@
       "brand": "Banila Co",
       "type": "Cleanser",
       "category": "Cleansers",
-      "price": 18.50,
+      "price": 18.5,
       "description": "Balm-to-oil cleanser for effortless makeup removal and deep cleansing.",
       "imageUrl": "https://koreanbeautys.com/cdn/shop/products/image_80003c82-a16c-43b4-a519-14dee161f40a.webp?v=1660943917&width=1080",
-            "rating":4.9
-
+      "rating": 4.9
     },
     {
       "id": 14,
@@ -159,11 +149,10 @@
       "brand": "Purito",
       "type": "Serum",
       "category": "Serums",
-      "price": 19.00,
+      "price": 19.0,
       "description": "Multi-ingredient serum with centella for soothing and barrier repair.",
       "imageUrl": "https://koreanbeautys.com/cdn/shop/products/image_6b7649d7-cdd7-417e-afd3-f2b7d42de028.jpg?v=1669035021&width=1800",
-            "rating":4.1
-
+      "rating": 4.1
     },
     {
       "id": 15,
@@ -171,11 +160,10 @@
       "brand": "Isntree",
       "type": "Serum",
       "category": "Serums",
-      "price": 16.00,
+      "price": 16.0,
       "description": "Vitamin C serum with lemon extract for brightening without irritation.",
       "imageUrl": "https://theisntree.com/wp-content/uploads/2025/06/Isntree-Vitamin-C-Serum1.jpg",
-            "rating":4.3
-
+      "rating": 4.3
     },
     {
       "id": 16,
@@ -183,11 +171,10 @@
       "brand": "Heimish",
       "type": "Cleanser",
       "category": "Cleansers",
-      "price": 14.00,
+      "price": 14.0,
       "description": "Natural green tea foam cleanser for purifying and balancing skin.",
       "imageUrl": "https://heimish.us/cdn/shop/products/13c512b6b65051606cce39fd2be86634.jpg?v=1678252843&width=1100",
-            "rating":4.8
-
+      "rating": 4.8
     },
     {
       "id": 17,
@@ -195,11 +182,10 @@
       "brand": "COSRX",
       "type": "Moisturizer",
       "category": "Moisturizers",
-      "price": 20.00,
+      "price": 20.0,
       "description": "Birch sap lotion for lightweight hydration on oily or acne-prone skin.",
       "imageUrl": "https://media.zid.store/e501090e-e273-4dae-95c1-0764aba488b4/2af2b4b7-83eb-4ede-94fe-b9eddb734989.jpg",
-            "rating":4.0
-
+      "rating": 4.0
     },
     {
       "id": 18,
@@ -207,11 +193,10 @@
       "brand": "A'pieu",
       "type": "Serum",
       "category": "Serums",
-      "price": 15.50,
+      "price": 15.5,
       "description": "Madecassoside serum for reducing blemishes and calming inflammation.",
       "imageUrl": "https://storage.skinsort.com/jxt0vrlpdcw5eov5c9gbh1g060zz",
-            "rating":4.9
-
+      "rating": 4.9
     },
     {
       "id": 19,
@@ -219,11 +204,10 @@
       "brand": "The Face Shop",
       "type": "Moisturizer",
       "category": "Moisturizers",
-      "price": 23.00,
+      "price": 23.0,
       "description": "Clarifying cream for acne-prone skin with soothing herbal extracts.",
       "imageUrl": "https://www.thefaceshop.com.au/cdn/shop/files/ClarifyingFacialMoisturizer1.jpg?v=1716442617&width=1280",
-            "rating":3.5
-
+      "rating": 3.5
     },
     {
       "id": 20,
@@ -231,11 +215,10 @@
       "brand": "Isntree",
       "type": "Cleanser",
       "category": "Cleansers",
-      "price": 17.00,
+      "price": 17.0,
       "description": "Lightweight sunscreen cleanser hybrid for daily protection and cleansing.",
       "imageUrl": "https://anwar.store/cdn/shop/files/wwrCvTxJbp7i4nyjqSy149QlqpD2nIq0IGKEfyp3.webp?v=1726073817",
-            "rating":4.1
-
+      "rating": 4.1
     },
     {
       "id": 21,
@@ -243,11 +226,10 @@
       "brand": "AHC",
       "type": "Moisturizer",
       "category": "Moisturizers",
-      "price": 30.00,
+      "price": 30.0,
       "description": "SPF-infused moisturizer for hydration and UV protection in one.",
       "imageUrl": "https://openthebeauty.com/cdn/shop/products/AHCNaturalPerfectionMoistSunCream_grande.png?v=1682313020",
-            "rating":5.0
-
+      "rating": 5.0
     },
     {
       "id": 22,
@@ -255,11 +237,10 @@
       "brand": "Round Lab",
       "type": "Serum",
       "category": "Serums",
-      "price": 21.00,
+      "price": 21.0,
       "description": "Hyaluronic sun serum for hydration and broad-spectrum protection.",
       "imageUrl": "https://www.ksecret.com/images/thumbs/0009169_round-lab-birch-juice-moisturizing-serum.jpeg",
-            "rating":4.3
-
+      "rating": 4.3
     },
     {
       "id": 23,
@@ -267,11 +248,10 @@
       "brand": "Etude House",
       "type": "Cleanser",
       "category": "Cleansers",
-      "price": 12.00,
+      "price": 12.0,
       "description": "Non-comedogenic oil cleanser for removing heavy makeup gently.",
       "imageUrl": "https://i0.wp.com/fiftyshadesofsnail.com/wp-content/uploads/2015/10/etude-house-real-art-moisture-cleansing-oil-front.jpg?w=2100&h=&crop=1&ssl=1",
-            "rating":5.0
-
+      "rating": 5.0
     },
     {
       "id": 24,
@@ -279,11 +259,10 @@
       "brand": "Purito",
       "type": "Serum",
       "category": "Serums",
-      "price": 26.00,
+      "price": 26.0,
       "description": "Recovery serum with peptides for post-treatment skin soothing.",
-      "imageUrl":"https://neogenesis.com/wp-content/uploads/2024/01/Recovery_30mL_1200px-e1706054838170.jpg",
-            "rating":4.7
-
+      "imageUrl": "https://neogenesis.com/wp-content/uploads/2024/01/Recovery_30mL_1200px-e1706054838170.jpg",
+      "rating": 4.7
     },
     {
       "id": 25,
@@ -291,11 +270,10 @@
       "brand": "I'm From",
       "type": "Moisturizer",
       "category": "Moisturizers",
-      "price": 19.50,
+      "price": 19.5,
       "description": "Sea water toner-moisturizer for balancing and hydrating sensitive skin.",
       "imageUrl": "https://roundlab.com/cdn/shop/files/1025-dokdo-toner-round-lab-1.jpg?v=1747182479&width=990",
-            "rating":4.5
-
+      "rating": 4.5
     },
     {
       "id": 26,
@@ -303,11 +281,10 @@
       "brand": "A'pieu",
       "type": "Cleanser",
       "category": "Cleansers",
-      "price": 11.50,
+      "price": 11.5,
       "description": "Citrus-infused foam for brightening and refreshing the skin.",
       "imageUrl": "https://shoptreve.com/cdn/shop/files/A59F4D50-2488-4E55-BF14-DFBF1E98FC43.webp?v=1754902527",
-            "rating":4.8
-
+      "rating": 4.8
     },
     {
       "id": 27,
@@ -315,11 +292,10 @@
       "brand": "Heimish",
       "type": "Serum",
       "category": "Serums",
-      "price": 22.50,
+      "price": 22.5,
       "description": "Ampoule serum for repairing damaged skin barrier with ceramides.",
       "imageUrl": "https://shoptreve.com/cdn/shop/files/IMG_2714.webp?v=1754942445",
-            "rating":4.2
-
+      "rating": 4.2
     },
     {
       "id": 28,
@@ -327,11 +303,10 @@
       "brand": "Banila Co",
       "type": "Moisturizer",
       "category": "Moisturizers",
-      "price": 27.00,
+      "price": 27.0,
       "description": "Dewy finish cream for glowing, hydrated skin all day.",
       "imageUrl": "https://banilausa.com/cdn/shop/files/DH_cream_19dca7dc-59e9-4df7-b4a5-0373226129a8.png?v=1727897011&width=990",
-            "rating":4.0
-
+      "rating": 4.0
     },
     {
       "id": 29,
@@ -339,11 +314,10 @@
       "brand": "Isntree",
       "type": "Cleanser",
       "category": "Cleansers",
-      "price": 15.00,
+      "price": 15.0,
       "description": "Onion extract cleanser with SPF for soothing and protection.",
       "imageUrl": "https://koreanbeautys.com/cdn/shop/files/2C15F911-CF6B-4349-8724-9919738EC850.jpg?v=1718329406&width=1800",
-            "rating":4.9
-
+      "rating": 4.9
     },
     {
       "id": 30,
@@ -351,11 +325,10 @@
       "brand": "Missha",
       "type": "Serum",
       "category": "Serums",
-      "price":25.00,
-      "description":"Sea water toner-moisturizer for balancing and hydrating sensitive skin.",
-      "imageUrl":"https://static.beautytocare.com/cdn-cgi/image/width=1440,height=1200,f=auto/media/catalog/product//m/i/missha-time-revolution-immortal-youth-essence-2x-50ml.jpg",
-            "rating":5.0
+      "price": 25.0,
+      "description": "Sea water toner-moisturizer for balancing and hydrating sensitive skin.",
+      "imageUrl": "https://static.beautytocare.com/cdn-cgi/image/width=1440,height=1200,f=auto/media/catalog/product//m/i/missha-time-revolution-immortal-youth-essence-2x-50ml.jpg",
+      "rating": 5.0
     }
-
   ]
 }
