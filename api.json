@@ -1,15 +1,16 @@
 {
   "data": [
-    {
+      {
       "id": 1,
-      "name": "Low pH Good Morning Gel Cleanser",
-      "brand": "COSRX",
+      "name": "Madecassoside Blemish Serum",
+      "brand": "Centelle",
       "type": "Cleanser",
       "category": "Cleansers",
-      "price": 11.99,
-      "description": "Gentle pH-balanced gel cleanser for morning routine, removes impurities without stripping moisture.",
-      "imageUrl": "https://www.cosmostoreegypt.com/wp-content/uploads/2024/06/cosrx-low-ph-good-morning-gel-cleanser-150ml.jpg",
-      "rating": 4.1
+      "price": 15.5,
+      "description":"A lightweight, oil-based cleanser that gently melts away makeup, dirt, oils and sunscreen without stinging the eye areaCentella oil (MCT-oil-extracted Centella) and 6 botanical oilsMicellar cleansing oil allows removal of excess oil and makeup without removing healthy oils Water-like light texture, suitable for those who are new to oil cleansers Non-comedogenic and dissolves sebum to prevent pore congestion",
+      "imageUrl": "https://www.skin1004.com/cdn/shop/products/skin1004-cleanser-centella-light-cleansing-oil-38409133490422_1440x.jpg?v=1677151102",
+      "rating": 4.9,
+      "stock":10
     },
     {
       "id": 2,
@@ -18,9 +19,10 @@
       "type": "Serum",
       "category": "Serums",
       "price": 14.99,
-      "description": "Hydrating snail mucin essence for skin repair and glow, a Misshaus bestseller.",
+      "description": "A cult-favorite hydrating essence containing 96% snail secretion filtrate, this lightweight serum works to deeply repair and rejuvenate the skin. It promotes a radiant glow by boosting hydration, soothing irritation, and improving skin texture over time. Suitable for all skin types, it's particularly effective for dry, dull, or damaged skin, helping to fade fine lines, reduce acne scars, and enhance overall skin elasticity for a plump, dewy complexion.",
       "imageUrl": "https://media.zid.store/e501090e-e273-4dae-95c1-0764aba488b4/dc43e6d7-0bcc-4fd5-8349-30835052ffd5.jpg",
-      "rating": 4.5
+      "rating": 4.5,
+      "stock":14
     },
     {
       "id": 3,
@@ -29,9 +31,11 @@
       "type": "Cleanser",
       "category": "Cleansers",
       "price": 12.5,
-      "description": "Clay mask cleanser with Jeju volcanic clay to unclog pores and control oil.",
+      "description": "Harnessing the natural purifying power of Jeju Island's volcanic clay, this innovative clay mask doubles as a cleanser to deeply unclog pores and absorb excess sebum. Enriched with AHA for gentle exfoliation and volcanic clusters that act like a magnet for impurities, it controls oil production while maintaining skin's hydration balance. Perfect for oily or combination skin, it leaves pores refined, skin matte yet refreshed, and helps prevent breakouts with regular use.",
       "imageUrl": "https://us.innisfree.com/cdn/shop/files/IF_V-CM_PDP_01_Packshot_2024_1080x1080_cbbd6762-1ece-4aaa-a06b-0fb4290b37c8.jpg?v=1703776282&width=1080",
-      "rating": 4.2
+      "rating": 4.2,
+            "stock":5
+
     },
     {
       "id": 4,
@@ -39,10 +43,12 @@
       "brand": "Innisfree",
       "type": "Serum",
       "category": "Serums",
-      "price": 22.0,
-      "description": "Antioxidant-rich serum with green tea seeds for soothing and brightening.",
+      "price": 22,
+      "description": "This potent antioxidant serum is derived from Jeju Island's green tea seeds, packed with over 16 amino acids and minerals to soothe irritated skin and provide long-lasting hydration. It brightens the complexion by fighting free radicals, reduces redness, and strengthens the skin barrier for a more even tone. Lightweight and fast-absorbing, it's excellent for sensitive or environmentally stressed skin, delivering a calm, luminous finish without greasiness.",
       "imageUrl": "https://us.innisfree.com/cdn/shop/files/01_IF_GT-HS_Packshot_2024_01_1080x1080_1b6524d9-595a-42a0-b57f-4532b11278cb.jpg?v=1756508600&width=1080",
-      "rating": 4.9
+      "rating": 4.9,
+      "stock":11
+
     },
     {
       "id": 5,
@@ -50,10 +56,11 @@
       "brand": "Laneige",
       "type": "Moisturizer",
       "category": "Moisturizers",
-      "price": 28.0,
-      "description": "Hyaluronic acid-infused cream for deep hydration and plump skin.",
+      "price": 28,
+      "description": "Formulated with a triple hyaluronic acid complex and blue hyaluronic acid from deep-sea sources, this luxurious cream delivers intense, multi-layer hydration to quench even the thirstiest skin. It creates a protective moisture veil that plumps fine lines, improves elasticity, and restores a youthful bounce. Ideal for dry or dehydrated skin, its non-greasy texture absorbs quickly, leaving a smooth, supple feel that lasts all day.",
       "imageUrl": "https://us.laneige.com/cdn/shop/files/LN_WBCM_24AD_Product_02.jpg?v=1703778486&width=1080",
-      "rating": 4.5
+      "rating": 4.5,
+      "stock":8
     },
     {
       "id": 6,
@@ -61,10 +68,11 @@
       "brand": "Dr. Jart+",
       "type": "Serum",
       "category": "Serums",
-      "price": 32.0,
-      "description": "Centella-based serum for calming redness and evening skin tone.",
+      "price": 32,
+      "description": "This innovative serum features a high concentration of Centella Asiatica (tiger grass) extract to calm inflammation, reduce redness, and promote faster healing of blemishes or irritated skin. Its color-correcting green-to-beige formula instantly neutralizes rosacea or post-acne marks while strengthening the skin barrier with panthenol and madecassoside. Dermatologist-tested and suitable for sensitive skin, it provides soothing relief and evens out tone for a flawless, healthy-looking complexion.",
       "imageUrl": "https://gomyz.com/media/catalog/product/cache/ed71e6947664464904fc81a10ba92dd4/d/r/dr._jart_cicapair_tiger_grass_color_correcting_treatment_15ml_8809535803221_1.jpg.mst.webp",
-      "rating": 3.5
+      "rating": 3.5,
+      "stock":12
     },
     {
       "id": 7,
@@ -72,10 +80,11 @@
       "brand": "Dr. Jart+",
       "type": "Moisturizer",
       "category": "Moisturizers",
-      "price": 38.0,
-      "description": "Ceramide-rich cream to strengthen skin barrier and lock in moisture.",
+      "price": 38,
+      "description": "A barrier-repairing powerhouse, this cream is enriched with five types of ceramides and panthenol to fortify the skin's lipid matrix, locking in moisture and preventing transepidermal water loss. It soothes dry, rough patches and restores a healthy microbiome, making it perfect for compromised or winter-weathered skin. With a rich yet non-comedogenic texture, it absorbs deeply to deliver 100 hours of hydration, resulting in softer, more resilient skin.",
       "imageUrl": "https://www.drjart.co.uk/media/export/cms/products/1000x1000/dj_sku_H7D201_1000x1000_0.jpg",
-      "rating": 3.9
+      "rating": 3.9,
+      "stock":20
     },
     {
       "id": 8,
@@ -83,10 +92,11 @@
       "brand": "The Face Shop",
       "type": "Cleanser",
       "category": "Cleansers",
-      "price": 13.0,
-      "description": "Brightening foam cleanser with rice water for gentle exfoliation and clarity.",
+      "price": 13,
+      "description": "Inspired by traditional Korean rice water rituals, this foaming cleanser gently exfoliates and brightens using fermented rice extract rich in vitamins and antioxidants. It removes dirt, makeup residue, and dead skin cells without disrupting the skin's pH, while hydrating and clarifying for a luminous glow. Foamy and refreshing, it's great for daily use on normal to dull skin, helping to even tone and minimize pores over time.",
       "imageUrl": "https://contour-plus.com/upload/12-2024/product/IMG_5647-IDX.jpeg",
-      "rating": 4.0
+      "rating": 4,
+      "stock":6
     },
     {
       "id": 9,
@@ -94,10 +104,11 @@
       "brand": "Missha",
       "type": "Serum",
       "category": "Serums",
-      "price": 25.0,
-      "description": "Fermented yeast essence for refined texture and enhanced absorption.",
+      "price": 25,
+      "description": "This advanced essence utilizes 77% fermented yeast filtrate from the exclusive 'The First' complex to refine skin texture, boost collagen production, and enhance the absorption of subsequent products. It brightens, hydrates, and firms the skin, reducing the appearance of pores and fine lines for a smoother, more radiant complexion. Lightweight and alcohol-free, it's a staple for anti-aging routines, suitable for all skin types seeking improved clarity and elasticity.",
       "imageUrl": "https://missha.com/upload/product/productmanage/202112031549251c99799f-d287-41ca-82fa-35f892ea06be.jpg",
-      "rating": 5.0
+      "rating": 5,
+      "stock":10
     },
     {
       "id": 10,
@@ -105,10 +116,11 @@
       "brand": "Missha",
       "type": "Moisturizer",
       "category": "Moisturizers",
-      "price": 24.0,
-      "description": "Snail mucin cream for anti-aging and intense hydration.",
+      "price": 24,
+      "description": "Blending 40% black snail mucin with hyaluronic acid and adenosine, this nourishing cream intensely hydrates while targeting signs of aging like wrinkles and sagging. It repairs damaged skin cells, promotes regeneration, and provides a protective layer against environmental stressors. With a velvety texture that melts into the skin, it's ideal for mature or dry skin, delivering a firm, plump, and youthful appearance with consistent application.",
       "imageUrl": "https://missha.com/upload/product/productmanage/20210511101822d28090ba-9f6f-481e-94d6-1d4f64a00e22.jpg",
-      "rating": 4.1
+      "rating": 4.1,
+      "stock":9
     },
     {
       "id": 11,
@@ -117,9 +129,10 @@
       "type": "Cleanser",
       "category": "Cleansers",
       "price": 10.5,
-      "description": "Mild whip cleanser for sensitive skin, pH-balanced to avoid irritation.",
+      "description": "Designed for sensitive skin, this whipped foam cleanser maintains a skin-friendly pH of 6.5 with 100% panthenol and madecassoside to gently cleanse without causing dryness or irritation. It removes impurities and excess oil while preserving the natural moisture balance, soothing redness, and strengthening the barrier. Hypoallergenic and fragrance-free, its airy texture rinses cleanly, leaving skin soft, calm, and refreshed for daily use.",
       "imageUrl": "https://f.nooncdn.com/p/v1571737572/N31225947A_1.jpg?width=800",
-      "rating": 4.2
+      "rating": 4.2,
+      "stock":8
     },
     {
       "id": 12,
@@ -127,10 +140,11 @@
       "brand": "Etude House",
       "type": "Moisturizer",
       "category": "Moisturizers",
-      "price": 18.0,
-      "description": "Collagen-boosting cream for firm, hydrated skin with a natural glow.",
+      "price": 18,
+      "description": "Packed with 72% collagen and fruit extracts, this foundation cream hydrates deeply while boosting skin firmness and elasticity for a natural, glowing base. It acts as a primer by smoothing texture and minimizing pores, preparing skin for makeup or standalone radiance. Lightweight and bouncy, it's perfect for combination or aging skin, providing all-day moisture without heaviness and enhancing overall plumpness.",
       "imageUrl": "https://i.ebayimg.com/images/g/ncsAAOSwq-Jn5lVk/s-l1600.webp",
-      "rating": 4.5
+      "rating": 4.5,
+      "stock":15
     },
     {
       "id": 13,
@@ -139,9 +153,10 @@
       "type": "Cleanser",
       "category": "Cleansers",
       "price": 18.5,
-      "description": "Balm-to-oil cleanser for effortless makeup removal and deep cleansing.",
+      "description": "A bestselling balm that transforms from solid to oil upon contact with skin, this cleanser effortlessly dissolves waterproof makeup, sunscreen, and stubborn impurities without tugging or residue. Infused with papaya enzymes for mild exfoliation and acerola extract for antioxidant protection, it purifies while maintaining hydration. Non-comedogenic and suitable for all skin types, it leaves a clean, soft feel, making double-cleansing a breeze.",
       "imageUrl": "https://koreanbeautys.com/cdn/shop/products/image_80003c82-a16c-43b4-a519-14dee161f40a.webp?v=1660943917&width=1080",
-      "rating": 4.9
+      "rating": 4.9,
+      "stock":17
     },
     {
       "id": 14,
@@ -149,21 +164,23 @@
       "brand": "Purito",
       "type": "Serum",
       "category": "Serums",
-      "price": 19.0,
-      "description": "Multi-ingredient serum with centella for soothing and barrier repair.",
+      "price": 19,
+      "description": "This multi-tasking serum combines 49% centella asiatica leaf water with peptides, ceramides, and hyaluronic acid to soothe, repair, and fortify the skin barrier against irritants. It calms inflammation, hydrates deeply, and improves resilience, making it a buffet of benefits for sensitive or reactive skin. Watery and quick-absorbing, it enhances glow and evenness without overwhelming active ingredients.",
       "imageUrl": "https://koreanbeautys.com/cdn/shop/products/image_6b7649d7-cdd7-417e-afd3-f2b7d42de028.jpg?v=1669035021&width=1800",
-      "rating": 4.1
+      "rating": 4.1,
+      "stock":14
     },
     {
       "id": 15,
-      "name": "Radian-C Lemon Relief Serum",
-      "brand": "Isntree",
-      "type": "Serum",
-      "category": "Serums",
-      "price": 16.0,
-      "description": "Vitamin C serum with lemon extract for brightening without irritation.",
-      "imageUrl": "https://theisntree.com/wp-content/uploads/2025/06/Isntree-Vitamin-C-Serum1.jpg",
-      "rating": 4.3
+      "name": "Centella Ampoule Foam",
+      "brand": "Centelle",
+      "type": "Moisturizer",
+      "category": "Moisturizers",
+      "price": 16,
+      "description": "A gentle vitamin C serum featuring 10% 3-O-ethyl ascorbic acid and lemon extract to brighten dull skin, fade hyperpigmentation, and provide antioxidant defense without causing sensitivity. Buffered for stability and irritation-free use, it also includes niacinamide for pore refinement and soothing botanicals. Ideal for beginners to vitamin C or sensitive skin, its lightweight formula absorbs swiftly, promoting a clearer, more radiant tone over time.",
+      "imageUrl":"https://www.skin1004.com/cdn/shop/products/skin1004-cleanser-centella-ampoule-foam-38642819825910_1440x.png?v=1677149057",
+      "rating": 4.3,
+      "stock":16
     },
     {
       "id": 16,
@@ -171,10 +188,11 @@
       "brand": "Heimish",
       "type": "Cleanser",
       "category": "Cleansers",
-      "price": 14.0,
-      "description": "Natural green tea foam cleanser for purifying and balancing skin.",
+      "price": 14,
+      "description": "This natural green tea foam cleanser is specially formulated to deeply purify the skin while maintaining its natural balance. Infused with antioxidant-rich green tea extracts, it gently removes impurities, excess oil, and makeup without stripping the skin's moisture barrier. Ideal for all skin types, especially those prone to congestion, it leaves the skin feeling refreshed, clean, and soothed with a subtle herbal scent.",
       "imageUrl": "https://heimish.us/cdn/shop/products/13c512b6b65051606cce39fd2be86634.jpg?v=1678252843&width=1100",
-      "rating": 4.8
+      "rating": 4.8,
+      "stock":18
     },
     {
       "id": 17,
@@ -182,21 +200,24 @@
       "brand": "COSRX",
       "type": "Moisturizer",
       "category": "Moisturizers",
-      "price": 20.0,
-      "description": "Birch sap lotion for lightweight hydration on oily or acne-prone skin.",
+      "price": 20,
+      "description": "Designed for oily or acne-prone skin, this lightweight birch sap lotion provides intense hydration without a greasy residue. Rich in birch tree sap, known for its purifying and soothing properties, it helps control sebum production, minimize pores, and restore the skin's moisture balance. The non-comedogenic formula absorbs quickly, making it perfect for daily use under makeup or sunscreen, leaving skin soft and matte.",
       "imageUrl": "https://media.zid.store/e501090e-e273-4dae-95c1-0764aba488b4/2af2b4b7-83eb-4ede-94fe-b9eddb734989.jpg",
-      "rating": 4.0
+      "rating": 4,
+            "stock":10
+
     },
-    {
+      {
       "id": 18,
-      "name": "Madecassoside Blemish Serum",
-      "brand": "A'pieu",
-      "type": "Serum",
-      "category": "Serums",
-      "price": 15.5,
-      "description": "Madecassoside serum for reducing blemishes and calming inflammation.",
-      "imageUrl": "https://storage.skinsort.com/jxt0vrlpdcw5eov5c9gbh1g060zz",
-      "rating": 4.9
+      "name": "Low pH Good Morning Gel Cleanser",
+      "brand": "COSRX",
+      "type": "Cleanser",
+      "category": "Cleansers",
+      "price": 11.99,
+      "description": "This gentle, pH-balanced gel cleanser is specifically formulated for your morning skincare routine. With a low pH of around 5.0-6.0, it effectively removes excess oil, sweat, and impurities accumulated overnight without stripping the skin's natural moisture barrier. Infused with tea tree oil and mild botanical extracts, it provides a refreshing cleanse that leaves the skin feeling clean, soft, and balanced, making it ideal for all skin types, including sensitive and acne-prone skin.",
+      "imageUrl": "https://www.cosmostoreegypt.com/wp-content/uploads/2024/06/cosrx-low-ph-good-morning-gel-cleanser-150ml.jpg",
+      "rating": 4.1,
+            "stock":5
     },
     {
       "id": 19,
@@ -204,10 +225,11 @@
       "brand": "The Face Shop",
       "type": "Moisturizer",
       "category": "Moisturizers",
-      "price": 23.0,
-      "description": "Clarifying cream for acne-prone skin with soothing herbal extracts.",
+      "price": 23,
+      "description": "Formulated for acne-prone skin, this clarifying moisture cream combines soothing herbal extracts like tea tree and chamomile to gently cleanse pores while providing long-lasting hydration. It helps control oiliness, reduce breakouts, and strengthen the skin barrier without clogging pores. The lightweight texture absorbs quickly, offering a matte finish that's ideal for daily use, especially in humid climates, to maintain clear and balanced skin.",
       "imageUrl": "https://www.thefaceshop.com.au/cdn/shop/files/ClarifyingFacialMoisturizer1.jpg?v=1716442617&width=1280",
-      "rating": 3.5
+      "rating": 3.5,
+            "stock":10
     },
     {
       "id": 20,
@@ -215,10 +237,12 @@
       "brand": "Isntree",
       "type": "Cleanser",
       "category": "Cleansers",
-      "price": 17.0,
-      "description": "Lightweight sunscreen cleanser hybrid for daily protection and cleansing.",
+      "price": 17,
+      "description": "This innovative hybrid product serves as both a lightweight sunscreen and a gentle cleanser, offering broad-spectrum SPF protection while removing daily buildup. Infused with hyaluronic acid for hydration, it protects against UVA/UVB rays without leaving a white cast or sticky feel. Perfect for on-the-go use, it rinses off easily at the end of the day, ensuring clean, nourished skin with a refreshing watery texture.",
       "imageUrl": "https://anwar.store/cdn/shop/files/wwrCvTxJbp7i4nyjqSy149QlqpD2nIq0IGKEfyp3.webp?v=1726073817",
-      "rating": 4.1
+      "rating": 4.1,
+            "stock":14
+
     },
     {
       "id": 21,
@@ -226,10 +250,11 @@
       "brand": "AHC",
       "type": "Moisturizer",
       "category": "Moisturizers",
-      "price": 30.0,
-      "description": "SPF-infused moisturizer for hydration and UV protection in one.",
+      "price": 30,
+      "description": "This multi-tasking SPF-infused moisturizer delivers deep hydration and reliable UV protection in a single step, making it a staple for busy skincare routines. Enriched with natural extracts like aloe and green tea, it nourishes the skin, evens out tone, and provides a fresh, dewy finish without greasiness. Suitable for all skin types, it offers high SPF levels to shield against sun damage while keeping skin soft and radiant throughout the day.",
       "imageUrl": "https://openthebeauty.com/cdn/shop/products/AHCNaturalPerfectionMoistSunCream_grande.png?v=1682313020",
-      "rating": 5.0
+      "rating": 5,
+            "stock":15
     },
     {
       "id": 22,
@@ -237,21 +262,23 @@
       "brand": "Round Lab",
       "type": "Serum",
       "category": "Serums",
-      "price": 21.0,
-      "description": "Hyaluronic sun serum for hydration and broad-spectrum protection.",
+      "price": 21,
+      "description": "A hydrating sun serum that combines multiple layers of hyaluronic acid with broad-spectrum SPF for ultimate moisture and protection. This watery gel formula quenches dry skin, plumps fine lines, and defends against environmental stressors without heaviness. Ideal for dehydrated or combination skin, it absorbs invisibly, leaving a lightweight, non-greasy barrier that supports skin health during sun exposure.",
       "imageUrl": "https://www.ksecret.com/images/thumbs/0009169_round-lab-birch-juice-moisturizing-serum.jpeg",
-      "rating": 4.3
+      "rating": 4.3,
+            "stock":19
     },
     {
       "id": 23,
-      "name": "Pure Cleansing Oil",
-      "brand": "Etude House",
-      "type": "Cleanser",
-      "category": "Cleansers",
-      "price": 12.0,
-      "description": "Non-comedogenic oil cleanser for removing heavy makeup gently.",
-      "imageUrl": "https://i0.wp.com/fiftyshadesofsnail.com/wp-content/uploads/2015/10/etude-house-real-art-moisture-cleansing-oil-front.jpg?w=2100&h=&crop=1&ssl=1",
-      "rating": 5.0
+      "name": "Centella Ampoule",
+      "brand": "Centelle",
+      "type": "Serum",
+      "category": "Serums",
+      "price": 12,
+      "description":"SKIN1004's signature ampoule helps provide hydration, supports the skin’s natural barrier, and offers soothing care ingredients.Helps soothe and hydrate sensitive-looking skin.",
+      "imageUrl": "https://www.skin1004.com/cdn/shop/products/skin1004-ampoule-serum-centella-ampoule-38409088401654_1440x.jpg?v=1677148618",
+      "rating": 5,
+            "stock":4
     },
     {
       "id": 24,
@@ -259,10 +286,11 @@
       "brand": "Purito",
       "type": "Serum",
       "category": "Serums",
-      "price": 26.0,
-      "description": "Recovery serum with peptides for post-treatment skin soothing.",
+      "price": 26,
+      "description": "Crafted for post-treatment recovery, this peptide-rich serum soothes and repairs damaged skin with a blend of bio-active ingredients inspired by stem cell technology. It reduces inflammation, accelerates healing after procedures like microneedling or peels, and strengthens the barrier function. Lightweight and fragrance-free, it's gentle on sensitive skin, promoting a smoother, more resilient complexion with consistent use.",
       "imageUrl": "https://neogenesis.com/wp-content/uploads/2024/01/Recovery_30mL_1200px-e1706054838170.jpg",
-      "rating": 4.7
+      "rating": 4.7,
+            "stock":10
     },
     {
       "id": 25,
@@ -271,9 +299,10 @@
       "type": "Moisturizer",
       "category": "Moisturizers",
       "price": 19.5,
-      "description": "Sea water toner-moisturizer for balancing and hydrating sensitive skin.",
+      "description": "Inspired by the pristine waters of Dokdo Island, this sea water-based toner-moisturizer deeply hydrates and balances sensitive skin with mineral-rich deep sea extracts. It gently exfoliates dead cells, preps the skin for better absorption of subsequent products, and soothes irritation without alcohol or harsh chemicals. The lightweight, watery texture provides instant refreshment, making it an essential for calming redness and maintaining a healthy moisture barrier.",
       "imageUrl": "https://roundlab.com/cdn/shop/files/1025-dokdo-toner-round-lab-1.jpg?v=1747182479&width=990",
-      "rating": 4.5
+      "rating": 4.5,
+            "stock":12
     },
     {
       "id": 26,
@@ -282,9 +311,10 @@
       "type": "Cleanser",
       "category": "Cleansers",
       "price": 11.5,
-      "description": "Citrus-infused foam for brightening and refreshing the skin.",
+      "description": "Burst with the invigorating scent of fresh citrus, this brightening cleansing foam uses vitamin C-rich extracts from oranges and lemons to gently cleanse while enhancing skin radiance. It removes dirt, oil, and dullness without disrupting the pH balance, helping to fade dark spots and even out tone over time. Foamy and refreshing, it's perfect for morning routines or oily skin types seeking a luminous, clean finish.",
       "imageUrl": "https://shoptreve.com/cdn/shop/files/A59F4D50-2488-4E55-BF14-DFBF1E98FC43.webp?v=1754902527",
-      "rating": 4.8
+      "rating": 4.8,
+            "stock":19
     },
     {
       "id": 27,
@@ -293,9 +323,10 @@
       "type": "Serum",
       "category": "Serums",
       "price": 22.5,
-      "description": "Ampoule serum for repairing damaged skin barrier with ceramides.",
+      "description": "This concentrated ampoule serum is packed with ceramides, cholesterol, and fatty acids to rebuild and fortify the skin's protective barrier, especially after exposure to harsh elements or treatments. It locks in moisture, reduces transepidermal water loss, and alleviates dryness or sensitivity. The potent yet gentle formula absorbs rapidly, delivering visible improvements in texture and resilience for all skin types, including compromised barriers.",
       "imageUrl": "https://shoptreve.com/cdn/shop/files/IMG_2714.webp?v=1754942445",
-      "rating": 4.2
+      "rating": 4.2,
+            "stock":12
     },
     {
       "id": 28,
@@ -303,10 +334,11 @@
       "brand": "Banila Co",
       "type": "Moisturizer",
       "category": "Moisturizers",
-      "price": 27.0,
-      "description": "Dewy finish cream for glowing, hydrated skin all day.",
+      "price": 27,
+      "description": "Achieve a natural, glowing complexion with this dewy finish cream, infused with hyaluronic acid and botanical oils for all-day hydration and luminosity. It melts into the skin to plump and soften, combating dullness and fine lines while providing a subtle sheen that's not overly shiny. Versatile for normal to dry skin, it's an excellent base for makeup, ensuring skin stays moisturized and radiant from morning till night.",
       "imageUrl": "https://banilausa.com/cdn/shop/files/DH_cream_19dca7dc-59e9-4df7-b4a5-0373226129a8.png?v=1727897011&width=990",
-      "rating": 4.0
+      "rating": 4,
+            "stock":11
     },
     {
       "id": 29,
@@ -314,10 +346,11 @@
       "brand": "Isntree",
       "type": "Cleanser",
       "category": "Cleansers",
-      "price": 15.0,
-      "description": "Onion extract cleanser with SPF for soothing and protection.",
+      "price": 15,
+      "description": "Harnessing the anti-inflammatory benefits of onion bulb extract, this unique cleanser with built-in SPF soothes sun-exposed skin while providing protective cleansing. It gently removes pollutants and sunscreen residue without irritation, thanks to its mild formula enriched with antioxidants. Ideal for sensitive or reactive skin, it calms redness and offers light UV defense during daily washing, leaving skin fresh and shielded.",
       "imageUrl": "https://koreanbeautys.com/cdn/shop/files/2C15F911-CF6B-4349-8724-9919738EC850.jpg?v=1718329406&width=1800",
-      "rating": 4.9
+      "rating": 4.9,
+            "stock":18
     },
     {
       "id": 30,
@@ -325,10 +358,131 @@
       "brand": "Missha",
       "type": "Serum",
       "category": "Serums",
-      "price": 25.0,
-      "description": "Sea water toner-moisturizer for balancing and hydrating sensitive skin.",
+      "price": 25,
+      "description": "This advanced anti-aging essence features fermented yeast extracts and sea water to revitalize and hydrate, targeting signs of aging like wrinkles and loss of firmness. It penetrates deeply to boost collagen production, improve elasticity, and provide a youthful glow. Lightweight and suitable for mature or dull skin, it enhances overall vitality, making it a powerhouse in routines focused on long-term skin rejuvenation and balance.",
       "imageUrl": "https://static.beautytocare.com/cdn-cgi/image/width=1440,height=1200,f=auto/media/catalog/product//m/i/missha-time-revolution-immortal-youth-essence-2x-50ml.jpg",
-      "rating": 5.0
+      "rating": 5,
+            "stock":15
+    },
+    {
+      "id": 31,
+      "name": "ACWELL Licorice pH Balancing Cleansing Toner",
+      "brand": "ACWELL",
+      "type": "Toner",
+      "category": "Toners",
+      "price": 18,
+      "description":"LOW pH CLEANSING FACIAL CLEANSING WATER: Acwell Licorice pH Balancing Korean Toner for Cleansing container roots of licorice and amino acid complex. This facial cleansing water for sensitive skin maintains a pH level of 5.5-6 that effectively cleanses the skin while regulating the oil & pH levels.DEEP CLEANSING WITHOUT IRRITATION: Made with Licorice water, Guava Leaves, Rose and Green Tea Extract, this cleansing water goes beyond simply removing stubborn makeup and impurities, and actually infuses skin with moisturizing and pore tightening without skin irritation.",
+      "imageUrl": "https://m.media-amazon.com/images/I/61N+fACtccL._SL1500_.jpg",
+      "rating": 4.6,
+            "stock":10
+    },
+    {
+      "id": 32,
+      "name": "Biodance Cera-NOL Gel Toner Pads",
+      "brand": "BIODANCE",
+      "type": "Toner",
+      "category": "Toners",
+      "price": 25,
+      "description": "Formulated with three types of hyaluronic acid and blue agave extract, this luxurious toner delivers intense moisture to parched skin, creating a watery veil that locks in hydration for up to 100 hours. It soothes irritation, strengthens the barrier, and enhances skin elasticity without stickiness. Perfect for dry or dehydrated skin types, its cooling mist application provides instant relief and a plump, radiant finish for smoother makeup application.",
+      "imageUrl": "https://m.media-amazon.com/images/I/51BUd5FtUoL._AC_SL1000_.jpg",
+      "rating": 4.7,
+            "stock":9
+    },
+    {
+      "id": 33,
+      "name": "SOME BY MI AHA BHA PHA 30 Days Miracle Toner",
+      "brand": "SOME BY MI",
+      "type": "Toner",
+      "category": "Toners",
+      "price": 35,
+      "description": "This premium activating serum acts as a high-end toner, blending ginseng root extracts and herbal ingredients to awaken dull skin and boost circulation for a youthful glow. It refines texture, minimizes fine lines, and prepares the skin for optimal absorption of essences and creams. Luxuriously silky and suitable for mature or tired skin, it restores vitality and firmness, making it a cornerstone for anti-aging routines with visible revitalization from the first use.",
+      "imageUrl": "https://m.media-amazon.com/images/I/61FZB3rhRuL._SL1500_.jpg",
+      "rating": 4.9,
+            "stock":10
+    },
+    {
+      "id": 34,
+      "name": "COSRX AHA/BHA Treatment Toner",
+      "brand": "COSRX",
+      "type": "Toner",
+      "category": "Toners",
+      "price": 22,
+      "description": "A multi-functional toner mist infused with mineral-rich aquaxyl and centella asiatica to instantly replenish moisture and calm sensitive skin on the go. It can be spritzed throughout the day to refresh makeup, soothe redness, or layer for extra hydration. The ultra-fine mist absorbs quickly without disturbing foundation, making it essential for urban dwellers or those with reactive skin seeking portable, all-day balance and comfort.",
+      "imageUrl": "https://m.media-amazon.com/images/I/618OlEn9xML._SL1500_.jpg",
+      "rating": 4.4,
+            "stock":13
+    },
+    {
+      "id": 35,
+      "name": "haruharu Wonder Black Rice Hyaluronic Toner",
+      "brand": "Lotion",
+      "type": "Toner",
+      "category": "Toners",
+      "price": 16,
+      "description": " Lotion Packed with 10,000ppm of madagascar centella asiatica, this soothing toner targets acne-prone and irritated skin by reducing inflammation, healing blemishes, and balancing oil production. It includes tea tree and niacinamide for pore minimization and brightening, all in a gentle, pH-balanced formula free from irritants. Ideal for sensitive or troubled skin, it provides a calming, matte finish that preps for serums while promoting clearer, healthier skin over time.",
+      "imageUrl": "https://m.media-amazon.com/images/I/4198g8VGL5L._AC_SL1000_.jpg",
+      "rating": 4.8,
+            "stock":13
+    },
+    {
+      "id": 36,
+      "name": "Beauty of Joseon Ginseng Essence Toner",
+      "brand": "Beauty of Joseon",
+      "type": "Toner",
+      "category": "Toners",
+      "price": 13,
+      "description": "Beauty of Joseon affordable brightening toner uses fermented rice extract and mulberry root to gently exfoliate and even out skin tone, fading hyperpigmentation and dullness for a luminous complexion. Rich in vitamins and amino acids, it hydrates deeply while refining texture without harsh scrubs. Suitable for daily use on normal to oily skin, its fresh rice milk scent and lightweight feel make it a gentle staple for achieving that coveted K-beauty glow.",
+      "imageUrl": "https://m.media-amazon.com/images/I/61SFmCEx9qL._AC_SL1500_.jpg",
+      "rating": 4.5,
+            "stock":10
+    },
+    {
+      "id": 37,
+      "name": "medicube PDRN Pink Peptide Toner",
+      "brand": "medicube",
+      "type": "Toner",
+      "category": "Toners",
+      "price": 19,
+      "description": " medicube powerhouse 96% snail secretion filtrate toner that repairs, hydrates, and smooths skin with natural glycoproteins and hyaluronic acid, renowned for their regenerative properties. It diminishes scars, controls sebum, and plumps fine lines, making it a cult favorite for acne recovery and overall rejuvenation. The slightly viscous yet non-sticky texture layers beautifully, ideal for all skin types seeking intense repair and a dewy, resilient barrier.",
+      "imageUrl": "https://m.media-amazon.com/images/I/61SsHavk-eL._AC_SL1500_.jpg",
+      "rating": 4.9,
+            "stock":8
+    },
+    {
+      "id": 38,
+      "name": "Anua Heartleaf 77 Soothing Toner",
+      "brand": "ANUA",
+      "type": "Toner",
+      "category": "Toners",
+      "price": 14,
+      "description": "ANUA minimalist toner features a blend of tea tree leaf water and panthenol to calm acne flare-ups, reduce excess oil, and prevent breakouts without drying the skin. Free from alcohol and artificial fragrances, it's hypoallergenic and pH-optimized for sensitive, oily skin. It gently tones and balances, providing a soothing base that enhances the efficacy of treatments, resulting in clearer, more comfortable skin with consistent use.",
+      "imageUrl": "https://m.media-amazon.com/images/I/51AeF0suKmL._AC_SL1500_.jpg",
+      "rating": 4.3,
+            "stock":11
+    },
+    {
+      "id": 39,
+      "name": "numbuzin No.9 Toner",
+      "brand": "numbuzin",
+      "type": "Toner",
+      "category": "Toners",
+      "price": 17,
+      "description": " numbuzin Sourced from Jeju's volcanic clusters, this toner absorbs sebum, unclogs pores, and mattifies oily skin with natural minerals and AHA/BHA complexes for mild exfoliation. It controls shine throughout the day while maintaining hydration, preventing the overproduction of oil. Perfect for congested or T-zone focused skin, its purifying yet non-stripping formula leaves a clean, refined surface ready for lightweight moisturizers and primers.",
+      "imageUrl": "https://m.media-amazon.com/images/I/612GD2rejyL._AC_SL1500_.jpg",
+      "rating": 4.6,
+            "stock":14
+    },
+    {
+      "id": 40,
+      "name": "IOPE Bio-Conditioning First Step Essence Toner",
+      "brand": "Essence",
+      "type": "Toner",
+      "category": "Toners",
+      "price": 28,
+      "description": "Inspired by Korean hanbang traditions, this dewy toner combines watermelon extract, niacinamide, and PHA for gentle brightening, pore refinement, and glowy hydration. It exfoliates dead cells softly, evens tone, and infuses antioxidants to protect against pollution. The juicy, pink formula with a subtle fruit scent is vegan and suitable for all skin types, delivering a fresh, radiant canvas that enhances natural luminosity and preps for glassy skin.",
+      "imageUrl": "https://m.media-amazon.com/images/I/41Tb64KF0xL._AC_SL1000_.jpg",
+      "rating": 4.7,
+            "stock":12
     }
   ]
 }
